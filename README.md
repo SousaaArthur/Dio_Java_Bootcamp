@@ -1,2 +1,2 @@
 # Dio_Java_Bootcamp
-Repositório criado para armazena os códigos do bootcamp da Dio
+Repositório criado para armazena os códigos de Java do bootcamp da Dio
